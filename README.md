@@ -2,7 +2,7 @@
 
 Niniejsza strona została zbudowana w oparciu o [hexo](http://hexo.io/). Zawartość strony zapisywana jest w formacie Markdown w plikach umieszczonych w `src`. Prośby o ściągnięcie są mile widziane!
 
-## Dewelopment
+## Dewelopment 
 
 ``` bash
 $ npm install
